@@ -3,7 +3,7 @@
 
 5 Fox Hill Rd, Spring Valley, NY 10977 | 914-705-9925 | Ymark@my365.bellevue.edu
 
-Review my full [Vehicle Valuation Project](project1.md).
+Review my full [Vehicle Valuation Project](Project1.md).
 
 Professional Summary:
 
@@ -39,17 +39,6 @@ NLP: Automated Resume Classification System
 Engineered a machine learning pipeline using Python and spaCy to automate document sorting.
 Executed full text-mining workflows including data cleaning, vectorization, and iterative evaluation.
 
-
-
-Yiscah Mark
-
-5 Fox Hill Rd, Spring Valley, NY 10977 | 914-705-9925 | Ymark@my365.bellevue.edu
-
-About Me:
-A motivated and accomplished entry-level Data Scientist (4.0 GPA), whose mind and capable, hard-working nature enable
-consistent high-performance in demanding technical environments. Paired with eager curiosity, a logical approach to
-problem-solving, strong interpersonal skills, and articulate communication, these skills enable the delivery of impactful,
-data-driven narratives.
 
 Awards:
 Bellevue University Dean’s List (all semesters)
